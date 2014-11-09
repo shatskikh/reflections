@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- A .git file is created. The folder becomes a repository and it becomes git accessible.  
+
+
+
