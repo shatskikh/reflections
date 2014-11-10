@@ -16,4 +16,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 - Just in case you decide to work on the document without the internet access.  
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- Without Git and GitHub I would probably need to email the code changes to my collaborators. It will be much messier especially if there is a small change. 
+
+
 
