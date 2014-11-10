@@ -21,4 +21,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 - Without Git and GitHub I would probably need to email the code changes to my collaborators. It will be much messier especially if there is a small change. 
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- When you're trying another experimental feature. 
+
+
 
